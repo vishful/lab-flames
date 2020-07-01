@@ -4,10 +4,11 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 import service.FlamesCheckService;
+//import service.FlameCheckService();
 
 public class TestFlamesCheckService {
-	FlamesCheckService fcs = new FlamesCheckService();
-	@Test
+//	FlamesCheckService fcs = new FlamesCheckService();
+//	@Test
 // 	public void testFindFlamesMethod() {
 // 		String name1 = "Alex";
 // 		String name2 = "Joylin";
@@ -24,7 +25,7 @@ public class TestFlamesCheckService {
 // 		name1 = "George";
 // 		name2 = "Neythiri";
 // 		temp = 'l';
-// 	    assertEquals(temp,fcs.findFlames(name1, name2));
+//	    assertEquals(temp,fcs.findFlames(name1, name2));
 // 		try {
 // 			fcs.findFlames(null, null);
 // 			fcs.findFlames("AAA", null);
